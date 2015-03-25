@@ -76,4 +76,6 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
+  # Dalli:
+  config.cache_store = :dalli_store, nil, {namespace: 'RateLimiterHeroku', expires_in: 1.day, compress: true}
 end
