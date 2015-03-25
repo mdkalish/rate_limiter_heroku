@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/mdkalish/workshop_rack
-  revision: 34e18965e32564054b119682f69d159c864435b0
+  revision: e737b9021d9b78561acaabde27b598b15132a453
   specs:
-    rate_limiter (0.1.0)
+    rate_limiter (0.2.0)
 
 GEM
   remote: https://rubygems.org/
