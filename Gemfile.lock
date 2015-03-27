@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mdkalish/workshop_rack
-  revision: 605273f601988d0001970656c702a4e4724ae939
+  revision: 9f4a5d6c95cf79f021e63d10fd40e9e8de165699
   specs:
     rate_limiter (0.2.2)
 
